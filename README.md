@@ -2,7 +2,8 @@
   <img src=./docs/images/title.png >
 </div>
 
-#potti-version
+# potti-version
+## 2025-03-21
 # CS 自学指南
 
 > *Everyone should enjoy CS if you have a good teacher to teach you a good course.*
